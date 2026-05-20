@@ -91,8 +91,8 @@ def scrape_day(target_date, retries=3):
     return []
 
 # --- Main ---
-EMAIL = "wz2723@nyu.edu"   
-PASSWORD = "Sb_!bvu@!Z4BxN!"      
+EMAIL = "your email"   
+PASSWORD = "your password"      
 
 login(EMAIL, PASSWORD)
 
