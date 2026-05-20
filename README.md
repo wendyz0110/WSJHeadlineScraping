@@ -3,8 +3,9 @@
 Scrapes article headlines from the WSJ archive and saves them to a CSV file.
 
 ## Requirements
-
-pip install undetected-chromedriver selenium pandas
+```python
+   pip install undetected-chromedriver selenium pandas
+```
 Also requires Google Chrome to be installed.
 
 ## Usage
